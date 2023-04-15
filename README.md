@@ -1,4 +1,4 @@
-# Compensating Transactions: A silly illustration of the Compensating Transaction pattern in Temporal
+# Compensating Transactions: A silly illustration of the this design pattern in Temporal through breakfast
 
 ## Build the project
 
