@@ -1,4 +1,4 @@
-# Temporalmental Chef: An illustration of Sagas with Temporal, by generating bad recipes
+# Compensating Transactions: A silly illustration of the Compensating Transaction pattern in Temporal
 
 ## Build the project
 
