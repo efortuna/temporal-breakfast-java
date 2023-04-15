@@ -11,7 +11,8 @@ directory run:
 
 ## Run the Workflow
 
-Run the [Temporal server](https://docs.temporal.io/docs/server/quick-install).
+Run the `temporal server start-dev` which starts the [Temporal server](https://docs.temporal.
+io/docs/server/quick-install).
 By default, you should see what things are running on your server at [http://localhost:8233/](http://localhost:8233/)
 
 To start the Workflow, either run the InitiateMoneyTransfer class from IntelliJ or from the project
